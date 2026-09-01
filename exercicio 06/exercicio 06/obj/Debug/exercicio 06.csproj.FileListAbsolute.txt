@@ -1,0 +1,7 @@
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\bin\Debug\exercicio 06.exe.config
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\bin\Debug\exercicio 06.exe
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\bin\Debug\exercicio 06.pdb
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\obj\Debug\exercicio 06.csproj.AssemblyReference.cache
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\obj\Debug\exercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\obj\Debug\exercicio 06.exe
+C:\Users\50446111821\source\repos\exercicio 06\exercicio 06\obj\Debug\exercicio 06.pdb
